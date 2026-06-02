@@ -18,4 +18,4 @@ A simple, lightweight CLI chatbot built with Python that interacts with users ba
 1. Make sure Python 3.x is installed.
 2. Run the script via terminal:
 ```bash
-   python
+   python Untitled-1
